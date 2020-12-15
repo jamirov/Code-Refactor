@@ -1,24 +1,26 @@
+/* This styling applies to the all elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Body color */
 body {
     background-color: #d9dcd6;
 }
-
+/* Styling the header of the web page*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Styling <h1> tag on the top of the page */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
+/* Header links style */
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,7 +41,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* This is a main picture style */
 .hero {
     height: 800px;
     width: 100%;
@@ -48,7 +50,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Main items on the page */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -64,7 +66,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Side bar on the right style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
