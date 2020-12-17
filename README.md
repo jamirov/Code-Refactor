@@ -2,9 +2,10 @@
 
 Changes I have made in HTML:
 
-1. Added an id element to div so search engine optimization so all links work.
-2. Replaced div with class="header" with header tag.
-3. Replaced the div element with footer class to the <footer> tag.
+1. Changed the title from Wesite to Horiseon
+2. Added an id element to div so search engine optimization so all links work.
+3. Replaced div with class="header" with header tag.
+4. Replaced the div element with footer class to the <footer> tag.
 
 
 
@@ -12,13 +13,6 @@ Chages I have made in CSS: (style.css had a 200 lines of styling and now it is 1
 
 
 1. Removed class and span tags from H1 (Horison) and put all in <h1> tag.
-
-2. Removed Styling
-
-header h1 .seo 
-{
-color: #d9dcd6;
-}
 
 3. Removed css: copied and pasted list style type and pasted to header div ul li
 list-style-type: none;

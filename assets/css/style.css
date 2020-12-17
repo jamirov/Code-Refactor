@@ -15,6 +15,9 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+.seo {
+    color: #d9dcd6;
+}
 /* Styling <h1> tag on the top of the page */
 h1 {
     display: inline-block;
@@ -33,6 +36,7 @@ header div ul li {
     margin-left: 25px;
     list-style-type: none;
 }
+/* header anchor link style */
 a {
     color: #ffffff;
     text-decoration: none;
